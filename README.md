@@ -25,7 +25,6 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
 
 - [Studenti](#studenti)
   - [Předzápis](#předzápis)
-    - [Postup](#postup-předzápisu)
   - [Zápis předmětu](#zápis-předmětů)
   - [Rozvrh](#rozvrh)
     - [Zobrazení rozvrhu](#zobrazení-rozvrhu)
@@ -46,6 +45,9 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
   - [Zahraniční výjezdy (ECTS)](#zahraniční-výjezdy-ects)
   - [Kontrola studia](#kontrola-studia)
 
+- [Absolventi](#absolventi)
+  - [Klub absolventů](#klub-absolventů)
+
 - [Zaměstnanci](#zaměstnanci)
   - [Rozvrh](#rozvrh-1)
     - [Zobrazení rozvrhu](#zobrazení-rozvrhu-1)
@@ -59,7 +61,6 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
   - [Kvalifikační práce](#kvalifikační-práce-1)
     - [Schvalování žádosti](#schvalování-žádostí)
 
-- [Absolventi](#absolventi)
-  - [Klub absolventů](#klub-absolventů)
+
 
 
