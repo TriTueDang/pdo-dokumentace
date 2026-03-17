@@ -6,10 +6,11 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
 
 # Obsah
 
-- [Úvod do IS/STAG](#úvod-do-isstag)
+- [IS/STAG](#úvod-do-isstag)
   - [Co je STAG](#co-je-stag)
-  - [Co lze ve STAGu provádět](#co-lze-ve-stagu-provádět)
+  - [Co STAG umožňuje](#co-lze-ve-stagu-provádět)
   - [Další portály spojené se STAGem](#další-portály-spojené-se-stagem)
+
 - [Kde najít STAG](#kde-najít-stag)
   - [Webová stránka](#webová-stránka)
   - [Mobilní aplikace](#mobilní-aplikace)
@@ -19,7 +20,7 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
   - [Co dělat po podání přihlášky](#co-dělat-po-podání-přihlášky)
 
 - [Přihlášení do STAGu](#přihlášení-do-stagu)
-  - [Jak se přihlásit do STAGu](#jak-se-přihlásit-do-stagu)
+  - [Postup přihlášení do STAGu](#jak-se-přihlásit-do-stagu)
   - [Nejčastější problémy s přihlášením](#nejčastější-problémy-s-přihlášením)
 
 - [Pro studenty](#pro-studenty)
@@ -51,7 +52,7 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
   - [Rozvrh](#rozvrh-1)
     - [Zobrazení rozvrhu](#zobrazeni-rozvrhu-1)
   - [Seznam studentů](#seznam-studentů)
-    - [Kde najít seznam studentů u rozvrhové akce](#kde-najít-seznam-studentů-u-rozvrhové-akce)
+    - [Seznam studentů u rozvrhové akce](#kde-najít-seznam-studentů-u-rozvrhové-akce)
   - [Správa rozvrhu](#správa-rozvrhu)
     - [Postup vytvoření rozvrhu předmětu](#jak-vytvořit-rozvrh-předmětu)
     - [Navýšení kapacity rozvrhové akce](#jak-navýšit-kapacitu-rozvrhové-akce)
@@ -61,7 +62,7 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
     - [Schválení studentské žádosti o VŠKP](#jak-schválit-studentskou-žádost-o-vškp)
 
 - [Pro absolventy](#pro-absolventy)
-  - [Jak se přihlásit do klubu absolventů](#jak-se-přihlásit-do-klubu-absolventů)
+  - [Přihlášení do klubu absolventů](#jak-se-přihlásit-do-klubu-absolventů)
 
 ---
 
