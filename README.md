@@ -17,7 +17,7 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
 
 - [Uchazeči o studium](#uchazeči-o-studium)
   - [Podání přihlášky](#podání-přihlášky)
-  - [Další kroky po podání](#další-kroky-po-podání)
+  - [Další kroky po podání přihlášky](#další-kroky-po-podání)
 
 - [Přihlášení](#přihlášení)
   - [Postup přihlášení](#postup-přihlášení)
@@ -42,8 +42,9 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
     - [Podání žádosti](#podání-žádosti)
   - [Kvalifikační práce](#kvalifikační-práce)
     - [Zadání práce](#zadání-práce)
-  - [Zahraniční výjezdy (ECTS)](#zahraniční-výjezdy-ects)
   - [Kontrola studia](#kontrola-studia)
+  - [Zahraniční výjezdy (ECTS)](#zahraniční-výjezdy-ects)
+ 
 
 - [Absolventi](#absolventi)
   - [Klub absolventů](#klub-absolventů)
@@ -51,14 +52,14 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
 - [Zaměstnanci](#zaměstnanci)
   - [Rozvrh](#rozvrh-1)
     - [Zobrazení rozvrhu](#zobrazení-rozvrhu-1)
-  - [Studenti](#studenti-1)
-    - [Seznam studentů](#seznam-studentů)
+  - [Seznam studentů](#seznam-studentů)
   - [Správa výuky](#správa-výuky)
     - [Tvorba rozvrhu](#tvorba-rozvrhu)
     - [Kapacita akcí](#kapacita-akcí)
   - [Zkoušky](#zkoušky-1)
     - [Vypsání termínu](#vypsání-termínu)
   - [Kvalifikační práce](#kvalifikační-práce-1)
+    - [Zadání práce](#zadání-práce)
     - [Schvalování žádosti](#schvalování-žádostí)
 
 
