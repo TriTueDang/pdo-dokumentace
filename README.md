@@ -5,160 +5,63 @@ Praktická příručka pro práci s informačním systémem **IS/STAG** pro ucha
 ---
 
 # Obsah
+- [IS/STAG](#isstAG)
+  - [Základní informace](#základní-informace)
+    - [Co je STAG](#co-je-stag)
+    - [Funkce systému](#funkce-systému)
+  - [Související portály](#související-portály)
 
-- [IS/STAG](#úvod-do-isstag)
-  - [Co je STAG](#co-je-stag)
-  - [Co STAG umožňuje](#co-lze-ve-stagu-provádět)
-  - [Další portály spojené se STAGem](#další-portály-spojené-se-stagem)
-
-- [Kde najít STAG](#kde-najít-stag)
-  - [Webová stránka](#webová-stránka)
+- [Přístup ke STAGu](#přístup-ke-stagu)
+  - [Webová verze](#webová-verze)
   - [Mobilní aplikace](#mobilní-aplikace)
 
-- [Pro uchazeče o studium](#pro-uchazeče-o-studium)
-  - [Jak podat přihlášku](#jak-podat-přihlášku)
-  - [Co dělat po podání přihlášky](#co-dělat-po-podání-přihlášky)
+- [Uchazeči o studium](#uchazeči-o-studium)
+  - [Podání přihlášky](#podání-přihlášky)
+  - [Další kroky po podání](#další-kroky-po-podání)
 
-- [Přihlášení do STAGu](#přihlášení-do-stagu)
-  - [Postup přihlášení do STAGu](#jak-se-přihlásit-do-stagu)
-  - [Nejčastější problémy s přihlášením](#nejčastější-problémy-s-přihlášením)
+- [Přihlášení](#přihlášení)
+  - [Postup přihlášení](#postup-přihlášení)
+  - [Řešení problémů s přihlášením](#řešení-problémů-s-přihlášením)
 
-- [Pro studenty](#pro-studenty)
+- [Studenti](#studenti)
   - [Předzápis](#předzápis)
-    - [Postup předzápisu](#postup-předzápisu)
+    - [Postup](#postup-předzápisu)
   - [Zápis předmětů](#zápis-předmětů)
     - [Zápis předmětu](#zápis-předmětu)
   - [Rozvrh](#rozvrh)
     - [Zobrazení rozvrhu](#zobrazení-rozvrhu)
-    - [Informace o místnosti](#informace-o-místnosti)
+    - [Místnosti](#místnosti)
   - [Zkoušky](#zkoušky)
-    - [Přihlášení na termín zkoušky](#přihlášení-na-termín-zkoušky)
+    - [Přihlášení na termín](#přihlášení-na-termín)
   - [Rozvrhové akce](#rozvrhové-akce)
-    - [Přihlášení na rozvrhovou akci](#přihlášení-na-rozvrhovou-akci)
-  - [Hodnocení předmětů](#hodnocení-předmětů)
-    - [Studentské hodnocení předmětů](#studentské-hodnocení-předmětů)
+    - [Registrace na akci](#registrace-na-akci)
+  - [Hodnocení](#hodnocení)
+    - [Hodnocení předmětů](#hodnocení-předmětů)
   - [Osobní údaje](#osobní-údaje)
-    - [Správa osobních údajů](#správa-osobních-údajů)
-  - [Potvrzení o studiu](#potvrzení-o-studiu)
-    - [Generování digitálního potvrzení](#generování-digitálního-potvrzení)
+    - [Správa údajů](#správa-údajů)
+  - [Dokumenty](#dokumenty)
+    - [Potvrzení o studiu](#potvrzení-o-studiu)
   - [Stipendia](#stipendia)
-    - [Podání žádosti o stipendium](#podání-žádosti-o-stipendium)
+    - [Podání žádosti](#podání-žádosti)
   - [Kvalifikační práce](#kvalifikační-práce)
-    - [Vyplnění zadání práce](#vyplnění-zadání-práce)
-  - [ECTS výjezdy](#ects-výjezdy)
-  - [Kontrola studijních povinností](#kontrola-studijních-povinností)
+    - [Zadání práce](#zadání-práce)
+  - [Zahraniční výjezdy (ECTS)](#zahraniční-výjezdy-ects)
+  - [Kontrola studia](#kontrola-studia)
 
-- [Pro zaměstnance](#pro-zaměstnance)
+- [Zaměstnanci](#zaměstnanci)
   - [Rozvrh](#rozvrh-1)
-    - [Zobrazení rozvrhu](#zobrazeni-rozvrhu-1)
-  - [Seznam studentů](#seznam-studentů)
-    - [Seznam studentů u rozvrhové akce](#kde-najít-seznam-studentů-u-rozvrhové-akce)
-  - [Správa rozvrhu](#správa-rozvrhu)
-    - [Postup vytvoření rozvrhu předmětu](#jak-vytvořit-rozvrh-předmětu)
-    - [Navýšení kapacity rozvrhové akce](#jak-navýšit-kapacitu-rozvrhové-akce)
+    - [Zobrazení rozvrhu](#zobrazení-rozvrhu-1)
+  - [Studenti](#studenti-1)
+    - [Seznam studentů](#seznam-studentů)
+  - [Správa výuky](#správa-výuky)
+    - [Tvorba rozvrhu](#tvorba-rozvrhu)
+    - [Kapacita akcí](#kapacita-akcí)
   - [Zkoušky](#zkoušky-1)
-    - [Vypsání termínu zkoušky](#jak-vypsat-termín-zkoušky)
+    - [Vypsání termínu](#vypsání-termínu)
   - [Kvalifikační práce](#kvalifikační-práce-1)
-    - [Schválení studentské žádosti o VŠKP](#jak-schválit-studentskou-žádost-o-vškp)
+    - [Schvalování žádostí](#schvalování-žádostí)
 
-- [Pro absolventy](#pro-absolventy)
-  - [Přihlášení do klubu absolventů](#jak-se-přihlásit-do-klubu-absolventů)
+- [Absolventi](#absolventi)
+  - [Klub absolventů](#klub-absolventů)
 
----
 
-# Úvod do IS/STAG
-
-## Co je STAG
-
-## Co lze ve STAGu provádět
-
-## Další portály spojené se STAGem
-
----
-
-# Kde najít STAG
-
-## Webová stránka
-
-## Mobilní aplikace
-
----
-
-# Pro uchazeče o studium
-
-## Jak podat přihlášku
-
-## Co dělat po podání přihlášky
-
----
-
-# Přihlášení do STAGu
-
-## Jak se přihlásit do STAGu
-
-## Nejčastější problémy s přihlášením
-
----
-
-# Pro studenty
-
-## Předzápis
-### Jak provést předzápis
-
-## Zápis předmětů
-### Jak si zapsat předmět
-
-## Rozvrh
-### Kde najít rozvrh
-### Kde je místnost
-
-## Zkoušky
-### Jak se přihlásit na termín zkoušky
-
-## Rozvrhové akce
-### Jak se přihlásit na rozvrhovou akci
-
-## Hodnocení předmětů
-### Kde hodnotit předměty
-
-## Osobní údaje
-### Kde najít osobní údaje
-
-## Potvrzení o studiu
-### Jak vygenerovat digitální potvrzení o studiu
-
-## Stipendia
-### Jak podat žádost o studentské stipendium
-
-## Kvalifikační práce
-### Jak vyplnit zadání kvalifikační práce
-
-## ECTS výjezdy
-
-## Kontrola studijních povinností
-
----
-
-# Pro zaměstnance
-
-## Rozvrh
-### Kde najít rozvrh
-
-## Seznam studentů
-### Kde najít seznam studentů u rozvrhové akce
-
-## Správa rozvrhu
-### Jak vytvořit rozvrh předmětu
-### Jak navýšit kapacitu rozvrhové akce
-
-## Zkoušky
-### Jak vypsat termín zkoušky
-
-## Kvalifikační práce
-### Jak schválit studentskou žádost o VŠKP
-
----
-
-# Pro absolventy
-
-## Jak se přihlásit do klubu absolventů
